@@ -325,7 +325,7 @@ WindowWidgetClass WindowWidget {
      vexactsize 1
      fixaspect outside
      image0 "set:cui image:Logo"
-     imageTexture "{7CD806F5385DC838}Colorful-UI/GUI/imagesets/CUI-Imageset.edds"
+     imageTexture "{37E27D4894427E40}gui/textures/Logo.edds"
      mode blend
      "src alpha" 1
      "clamp mode" clamp

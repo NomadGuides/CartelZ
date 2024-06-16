@@ -10,7 +10,7 @@ ImageSetClass {
  Images {
   ImageSetDefClass Logo {
    Name "Logo"
-   Pos 11 15
+   Pos 16 17
    Size 438 261
    Flags 0
   }
